@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is user login for MMA App</description>
+   <name>login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee0ef9d0-c43e-4fe1-9e1c-10b8d1520f0c</testCaseGuid>
+</TestCaseEntity>

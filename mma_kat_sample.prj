@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>mma_kat_sample</name>
+   <tag></tag>
+   <UUID>00b62ae2-8a26-4057-a276-14dd3ae1c48f</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
